@@ -23,7 +23,7 @@
 - ✔️Amazon Web Services(AWS), Cpanel, Digital Ocean, Linux (Ubuntu), Docker
 - ✔️UI/UX development and design
 
-- 📫 How to reach me **salman0butt@gmail.c0m**
+- 📫 How to reach me **salman0butt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
