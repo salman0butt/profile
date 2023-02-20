@@ -4,6 +4,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman0butt&label=Profile%20views&color=0e75b6&style=flat" alt="salman0butt" /> </p>
 
 - 💬 Ask me about **Laravel, PHP, JavaScript, React.js, Vue.js, Node.js**
+- ✔️ HTML5, CSS3, Bootstrap, Tailwind Css, Sass
+- ✔️ JavaScript, ES6+, DOM, Typescript, jQuery, AJAX, JSON, Leaflet.js
+- ✔️ React.js, Redux, React Native, Vue.js, Vuex (MERN/MEVN Stack )
+- ✔️ Wordpress, Woocommerce
+- ✔️ PHP, Laravel, CodeIgniter, OOP, PDO, SQL, PHP MVC
+- ✔️ Node.js, Express.js, NPM, YARN, SSH
+- ✔️ MySql, Sql Server & MongoDB Databases
+- ✔️ Version Control System (Git, Git Hub, GitLab)
+- ✔️ Object-Oriented Programming (OOP)
+- ✔️ RESTful API Development
+- ✔️ Postman, Insomnia
+- ✔️ Test Driven Development
+- ✔️ Data Structures & Algorithms 
+- ✔️ Agile Development Methology
+- ✔️ PSD to Real World Web Apps , Responsive, Crossbrowser
+- ✔️API integration (Pusher, Stripe, PayPal, Paytabs, Brainstree, Facebook, Google, YouTube, Twitter, Google Map... etc) 
+- ✔️Amazon Web Services(AWS), Cpanel, Digital Ocean, Linux (Ubuntu), Docker
+- ✔️UI/UX development and design
 
 - 📫 How to reach me **salman0butt@gmail.c0m**
 
